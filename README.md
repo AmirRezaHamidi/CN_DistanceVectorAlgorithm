@@ -33,4 +33,4 @@ In this project, we have two events:
 
 Also, The CLI enables users to see the distance vector of any nodes for all emulation time steps (that is the update steps of distance vector for each node in order to find the best rout for any node to any other node).
 
-Further detail is available at workreport.pdf file.
+Further Details are Available at Work Report.pdf file.
